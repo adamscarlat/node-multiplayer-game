@@ -1,0 +1,17 @@
+{
+    "name": "raining-chain",
+    "version": "1.0.0",
+    "description": "Multiplayer Web Game based on the game Raining Chain (rainingchain.com)",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon server/*.js --exec node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.3",
+        "socket.io": "^2.1.0",
+        "nodemon": "^1.17.3"
+    },
+    "devDependencies": {}
+}
