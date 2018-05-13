@@ -20,3 +20,5 @@ Prerequisites: NodeJS.
 A - left, D - Right, S - Down, W- Up.
 
 Shoot - point the mouse to where you want to shoot and click.
+
+![Alt Text](https://github.com/adamscarlat/node-multiplayer-game/blob/master/game_gif.gif)
